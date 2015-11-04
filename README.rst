@@ -1,3 +1,3 @@
-Buildout for a VoteIT instance
-==============================
+Installation för Sveriges Elevkårer
+===================================
 
